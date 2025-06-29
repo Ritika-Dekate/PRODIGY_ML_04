@@ -11,8 +11,7 @@ The solution leverages a Convolutional Neural Network (CNN) trained on the LeapG
 - **Dataset**: LeapGestRecog dataset from Kaggle  
 - **Architecture**: Multi-layered CNN with feature extraction and classification blocks  
 - **Framework**: PyTorch  
-- **Accuracy**: Achieved 98.83% test accuracy
-- **Notebook**: Entire implementation is contained in `prodigy_T4.ipynb`
+- **Accuracy**: Achieved 99.02% test accuracy
 
 ## Key Features
 
@@ -49,7 +48,7 @@ The CNN architecture includes:
 
 | Metric       | Value     |
 |--------------|-----------|
-| Test Accuracy| 99.04%    |
+| Test Accuracy| 99.02%    |
 
 The high accuracy indicates effective feature learning and generalization by the model.
 The model demonstrates high generalization on unseen data and strong classification performance across gesture classes.
